@@ -1,0 +1,137 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "a113c1457807b92f7dee97bab2a3d4de",
+    "logs": [
+      {
+        "time": "2023-03-30T22:23:45.560Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-03-30T22:25:45.038Z",
+        "type": "INFO",
+        "message": "6c7516975e5373b9 Connected"
+      },
+      {
+        "time": "2023-03-30T22:26:02.399Z",
+        "type": "INFO",
+        "message": "6c7516975e5373b9 Disconnected"
+      },
+      {
+        "time": "2023-03-30T22:26:05.216Z",
+        "type": "INFO",
+        "message": "6c7516975e5373b9 Connected"
+      },
+      {
+        "time": "2023-03-30T22:26:47.480Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:26:47.622Z",
+        "type": "ERROR",
+        "message": "6c7516975e5373b9 GPS Recieved No Data"
+      },
+      {
+        "time": "2023-03-30T22:26:47.624Z",
+        "type": "ERROR",
+        "message": "6c7516975e5373b9 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2023-03-30T22:26:59.305Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:27:01.315Z",
+        "type": "SUCCESS",
+        "message": "6c7516975e5373b9 Contacts Updated - 355 New Contacts Added"
+      },
+      {
+        "time": "2023-03-30T22:27:01.399Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:27:01.755Z",
+        "type": "SUCCESS",
+        "message": "6c7516975e5373b9 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-03-30T22:27:13.850Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:27:15.538Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:27:20.953Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:27:20.969Z",
+        "type": "SUCCESS",
+        "message": "6c7516975e5373b9 Permissions Updated"
+      },
+      {
+        "time": "2023-03-30T22:27:29.981Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:27:30.009Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-30T22:27:37.490Z",
+        "type": "INFO",
+        "message": "6c7516975e5373b9 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2023-03-30T22:27:37.491Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6c7516975e5373b9"
+      },
+      {
+        "time": "2023-03-30T22:27:37.513Z",
+        "type": "ERROR",
+        "message": "6c7516975e5373b9 GPS Recieved No Data"
+      },
+      {
+        "time": "2023-03-30T22:27:37.514Z",
+        "type": "ERROR",
+        "message": "6c7516975e5373b9 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2023-03-30T22:27:42.446Z",
+        "type": "INFO",
+        "message": "6c7516975e5373b9 Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "6c7516975e5373b9",
+      "firstSeen": "2023-03-30T22:25:45.016Z",
+      "lastSeen": "2023-03-30T22:27:42.447Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.2",
+        "clientGeo": {},
+        "device": {
+          "model": "2203121C",
+          "manufacture": "Xiaomi",
+          "version": "9"
+        }
+      }
+    }
+  ]
+}
